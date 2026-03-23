@@ -1,0 +1,34 @@
+#EXTM3U url-tvg="https://epg.tvnow.best/epg.xml"
+
+# --- BRASIL ---
+#EXTINF:-1 group-title="Brasil",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura/playlist.m3u8
+
+#EXTINF:-1 group-title="Brasil",TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 group-title="Notícias",Band News
+https://evpp.mm.uol.com.br/band/bandnews/playlist.m3u8
+
+#EXTINF:-1 group-title="Legislativo",TV Senado
+https://cdn-1.nxplay.com.br/TVSenado/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Legislativo",TV Câmara
+https://stream3.camara.leg.br/tv1/manifest.m3u8
+
+# --- INTERNACIONAL ---
+#EXTINF:-1 group-title="Internacional",NASA TV
+https://ntv1.akamaized.net/NASA-NTV1/master.m3u8
+
+#EXTINF:-1 group-title="Internacional",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 group-title="Negócios",Bloomberg TV
+https://bloomberg-bloomberg-1-br.samsung.wurl.com/manifest/playlist.m3u8
+
+# --- STREAMING FREE ---
+#EXTINF:-1 group-title="Filmes",Pluto TV Filmes
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d863b98b4100007c1bdb0/master.m3u8
+
+#EXTINF:-1 group-title="Entretenimento",Pluto TV Séries
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d85b0c9ff2b0007e4f9c4/master.m3u8
