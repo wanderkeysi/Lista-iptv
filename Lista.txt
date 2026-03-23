@@ -1,0 +1,64 @@
+#EXTM3U
+
+# TV ABERTA (apps oficiais)
+#EXTINF:-1 group-title="TV ABERTA",Globo (AO VIVO)
+app://globoplay/live
+
+#EXTINF:-1 group-title="TV ABERTA",SBT (AO VIVO)
+app://sbtplus/live
+
+#EXTINF:-1 group-title="TV ABERTA",Record TV (AO VIVO)
+app://playplus/live
+
+#EXTINF:-1 group-title="TV ABERTA",Band TV (AO VIVO)
+app://bandplay/live
+
+#EXTINF:-1 group-title="TV ABERTA",TV Brasil
+app://tvbrasil/live
+
+
+# STREAMING GRATUITO
+#EXTINF:-1 group-title="GRATUITOS",Pluto TV - Filmes
+app://plutotv/movies
+
+#EXTINF:-1 group-title="GRATUITOS",Pluto TV - Séries
+app://plutotv/series
+
+#EXTINF:-1 group-title="GRATUITOS",Pluto TV - Infantil
+app://plutotv/kids
+
+#EXTINF:-1 group-title="GRATUITOS",Plex TV
+app://plex/live
+
+#EXTINF:-1 group-title="GRATUITOS",Samsung TV Plus
+app://samsungtvplus/live
+
+#EXTINF:-1 group-title="GRATUITOS",LG Channels
+app://lgchannels/live
+
+
+# NOTÍCIAS
+#EXTINF:-1 group-title="NOTICIAS",CNN Brasil
+app://cnnbrasil/live
+
+#EXTINF:-1 group-title="NOTICIAS",Band News
+app://bandnews/live
+
+#EXTINF:-1 group-title="NOTICIAS",Record News
+app://recordnews/live
+
+
+# ESPORTES
+#EXTINF:-1 group-title="ESPORTES",GE TV / Globoplay Eventos
+app://globoplay/sports
+
+#EXTINF:-1 group-title="ESPORTES",YouTube Sports Oficiais
+app://youtube/sports
+
+
+# INFANTIL
+#EXTINF:-1 group-title="INFANTIL",Pluto TV Kids
+app://plutotv/kids
+
+#EXTINF:-1 group-title="INFANTIL",Plex Kids
+app://plex/kids
